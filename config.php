@@ -11,16 +11,16 @@
  */
  
 /** MySQL hostname */
-define("DB_HOST", '173.254.243.2');
+define("DB_HOST", '137.74.180.123');
 
 /** MySQL database username */
-define("DB_USER", 'filmyfy_stream');
+define("DB_USER", 'trickfor_stream');
 
 /** MySQL database password */
-define("DB_PASS", 'FB(fx%N;sJtl');
+define("DB_PASS", 'LSFAzDIc7yY3');
 
 /** MySQL database name */
-define("DB_NAME", 'filmyfy_stream');
+define("DB_NAME", 'trickfor_stream');
 
 /** PHP Error Reporting */
 define("DEBUG", false);
